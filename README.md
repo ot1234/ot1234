@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ot1234
 - 👀 I’m interested in Backend Programming and Data Engineering
-- 🌱 I’m currently learning Computer Science & Philosophy in Tel-Aviv University
+- 🌱 I’m currently Pursuing a computer science masters degree in Weizmann Institute.
 - 💞️ I’m looking to collaborate on interesting short software projects
 - 📫 How to reach me ofritamir135@gmail.com
 
